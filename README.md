@@ -1,2 +1,2 @@
 # SelfHostServer
-A self-host service with two API controllers
+A self-hosted Http server with two API controllers
